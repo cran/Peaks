@@ -1,0 +1,2 @@
+SunspotsPeaks		Demonstrates removal of background and harmonics identification in sunspots monthly data.
+Deconvolution		Checks Gold deconvolution algorithm on sunspots monthly data with Lorentz instrumental function..

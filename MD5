@@ -1,0 +1,11 @@
+bbb2ae5afdd071359a0ba2ecec598dfb *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+916e80e983b0780221c080bd83ac56b5 *R/zzz.R
+1b96f64de5e305393257ae7eb5db8814 *demo/00Index
+81b149c355009c2a0cdbf7a6855b79c5 *demo/Deconvolution.R
+207a540462faa06ead93716beb591f91 *demo/SunspotsPeaks.R
+2ae71c638fedd39b023d3ebb11b4d60c *man/SpectrumBackground.Rd
+d01afbd34012c772dd22d9298bf902d9 *man/SpectrumDeconvolution.Rd
+ca5044256b3c9438c912b43d00349506 *man/SpectrumSearch.Rd
+80a7fc436d0a24b15bfce60aea0fd0ca *man/SpectrumSmoothMarkov.Rd
+d1b32d54e2564b2b1c64079afcb33d75 *src/spectrum.c
